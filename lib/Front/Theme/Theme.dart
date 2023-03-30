@@ -5,7 +5,7 @@ class ColorTable {
   static const background = Colors.black;
 
   static const red = Colors.red;
-  static const green = Colors.green;
+  static const green = Color.fromARGB(255, 43, 212, 83);
   static const yellow = Colors.yellow;
   static const white = Colors.white;
   static const grey = Colors.grey;

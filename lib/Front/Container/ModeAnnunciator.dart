@@ -12,6 +12,7 @@ class ModeAnnunciator extends StatelessWidget {
   Container annunciatorCell({Widget? child}) {
     return Container(
       margin: const EdgeInsets.symmetric(vertical: 7),
+      padding: const EdgeInsets.symmetric(horizontal: 10),
       decoration: const BoxDecoration(
           border: Border(
               right: BorderSide(

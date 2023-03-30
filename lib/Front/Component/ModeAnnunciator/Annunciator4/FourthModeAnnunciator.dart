@@ -13,10 +13,10 @@ class FourthModeAnnunciator extends StatefulWidget {
 
 class FourthModeAnnunciatorState extends State<FourthModeAnnunciator> {
   String _getFPSString(SerialCummProvider serialCummData) {
-    switch (serialCummData.cummState) {
-      case CummState.normal:
-        return '30 FPS';
-      case CummState.disconnected:
+    switch (serialCummData.commState) {
+      case CommState.normal:
+        return '${1000 ~/ serialCummData.deltaTime.inMilliseconds} FPS';
+      case CommState.disconnected:
         return 'LOS';
     }
   }
@@ -28,11 +28,29 @@ class FourthModeAnnunciatorState extends State<FourthModeAnnunciator> {
     return Column(
       crossAxisAlignment: CrossAxisAlignment.center,
       children: [
-        const Text(
-          'PORT',
-          style: TextStyle(
-              fontSize: FontSizeTable.normal, color: ColorTable.white),
-        ),
+        DropdownButton<String>(
+            items: serialCummData.availablePorts.map((String value) {
+              return DropdownMenuItem<String>(
+                value: value,
+                // child: Text(value),
+                child: Text(
+                  value,
+                  overflow: TextOverflow.fade,
+                  softWrap: false,
+                  maxLines: 1,
+                ),
+              );
+            }).toList(),
+            isExpanded: true,
+            dropdownColor: const Color.fromARGB(255, 50, 50, 50),
+            style: const TextStyle(
+                color: ColorTable.white, fontSize: FontSizeTable.small),
+            value: serialCummData.currentPort,
+            onTap: () => {serialCummData.updateAvailablePorts()},
+            onChanged: (dynamic value) {
+              serialCummData.changeCurrentPort(value);
+              serialCummData.setConnection(value);
+            }),
         Text(
           _getFPSString(serialCummData),
           style: const TextStyle(
