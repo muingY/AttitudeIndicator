@@ -11,9 +11,9 @@ dependencies:
   flutter:
     sdk: flutter
   flutter_libserialport: ^0.3.0
-
   cupertino_icons: ^1.0.2
   provider: ^6.0.5
+  flutter_svg: ^2.0.5
 
 dev_dependencies:
   flutter_test:
@@ -23,3 +23,9 @@ dev_dependencies:
 
 flutter:
   uses-material-design: true
+  assets:
+    - assets/
+    - assets/image/
+    - assets/image/attitudeguidance_fixedref.svg
+    - assets/image/attitudeguidance_bankguide.svg
+    - assets/sound/

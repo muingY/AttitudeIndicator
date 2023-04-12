@@ -15,6 +15,7 @@ class FourthModeAnnunciatorState extends State<FourthModeAnnunciator> {
   String _getFPSString(SerialCummProvider serialCummData) {
     switch (serialCummData.commState) {
       case CommState.normal:
+        if (serialCummData.deltaTime.inMilliseconds == 0) return '- FPS';
         return '${1000 ~/ serialCummData.deltaTime.inMilliseconds} FPS';
       case CommState.disconnected:
         return 'LOS';

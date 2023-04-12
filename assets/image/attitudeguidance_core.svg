@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 5400">
+  <g id="_레이어_1" data-name="레이어 1">
+    <rect x="0" width="1080" height="2700" fill="#0496ff"/>
+    <rect y="2700" width="1080" height="2700" fill="#9a4710"/>
+    <line y1="2700" x2="1080" y2="2700" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="5"/>
+  </g>
+  <g id="_레이어_2" data-name="레이어 2">
+    <line x1="438.29" y1="2700" x2="641.71" y2="2700" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="3"/>
+    <g>
+      <line x1="438.29" y1="2480" x2="641.71" y2="2480" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="3"/>
+      <text transform="translate(658.07 2489.84)" fill="#fff" font-family="BMDoHyeon-OTF-KSCpc-EUC-H, &apos;BM Dohyeon&apos;" font-size="36"><tspan x="0" y="0">10</tspan></text>
+      <text transform="translate(381.94 2489.84)" fill="#fff" font-family="BMDoHyeon-OTF-KSCpc-EUC-H, &apos;BM Dohyeon&apos;" font-size="36"><tspan x="0" y="0">10</tspan></text>
+    </g>
+    <g>
+      <line x1="438.29" y1="2260" x2="641.71" y2="2260" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="3"/>
+      <text transform="translate(654.75 2269.84)" fill="#fff" font-family="BMDoHyeon-OTF-KSCpc-EUC-H, &apos;BM Dohyeon&apos;" font-size="36"><tspan x="0" y="0">20</tspan></text>
+      <text transform="translate(378.63 2269.84)" fill="#fff" font-family="BMDoHyeon-OTF-KSCpc-EUC-H, &apos;BM Dohyeon&apos;" font-size="36"><tspan x="0" y="0">20</tspan></text>
+    </g>
+    <g>
+      <line x1="478.75" y1="2590" x2="601.25" y2="2590" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="3"/>
+      <line x1="512" y1="2535" x2="568" y2="2535" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2"/>
+      <line x1="512" y1="2645" x2="568" y2="2645" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2"/>
+    </g>
+    <g>
+      <line x1="478.75" y1="2370" x2="601.25" y2="2370" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="3"/>
+      <line x1="512" y1="2315" x2="568" y2="2315" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2"/>
+      <line x1="512" y1="2425" x2="568" y2="2425" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2"/>
+    </g>
+    <g>
+      <line x1="438.29" y1="2040" x2="641.71" y2="2040" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="3"/>
+      <text transform="translate(654.38 2049.84)" fill="#fff" font-family="BMDoHyeon-OTF-KSCpc-EUC-H, &apos;BM Dohyeon&apos;" font-size="36"><tspan x="0" y="0">30</tspan></text>
+      <text transform="translate(378.25 2049.84)" fill="#fff" font-family="BMDoHyeon-OTF-KSCpc-EUC-H, &apos;BM Dohyeon&apos;" font-size="36"><tspan x="0" y="0">30</tspan></text>
+    </g>
+    <g>
+      <line x1="438.29" y1="1820" x2="641.71" y2="1820" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="3"/>
+      <text transform="translate(653.1 1829.84)" fill="#fff" font-family="BMDoHyeon-OTF-KSCpc-EUC-H, &apos;BM Dohyeon&apos;" font-size="36"><tspan x="0" y="0">40</tspan></text>
+      <text transform="translate(376.97 1829.84)" fill="#fff" font-family="BMDoHyeon-OTF-KSCpc-EUC-H, &apos;BM Dohyeon&apos;" font-size="36"><tspan x="0" y="0">40</tspan></text>
+    </g>
+    <g>
+      <line x1="438.29" y1="1600" x2="641.71" y2="1600" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="3"/>
+      <text transform="translate(653.87 1609.84)" fill="#fff" font-family="BMDoHyeon-OTF-KSCpc-EUC-H, &apos;BM Dohyeon&apos;" font-size="36"><tspan x="0" y="0">50</tspan></text>
+      <text transform="translate(377.75 1609.84)" fill="#fff" font-family="BMDoHyeon-OTF-KSCpc-EUC-H, &apos;BM Dohyeon&apos;" font-size="36"><tspan x="0" y="0">50</tspan></text>
+    </g>
+    <g>
+      <line x1="438.29" y1="1380" x2="641.71" y2="1380" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="3"/>
+      <text transform="translate(653.21 1389.84)" fill="#fff" font-family="BMDoHyeon-OTF-KSCpc-EUC-H, &apos;BM Dohyeon&apos;" font-size="36"><tspan x="0" y="0">60</tspan></text>
+      <text transform="translate(377.08 1389.84)" fill="#fff" font-family="BMDoHyeon-OTF-KSCpc-EUC-H, &apos;BM Dohyeon&apos;" font-size="36"><tspan x="0" y="0">60</tspan></text>
+    </g>
+    <g>
+      <line x1="438.29" y1="1160" x2="641.71" y2="1160" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="3"/>
+      <text transform="translate(653.84 1169.84)" fill="#fff" font-family="BMDoHyeon-OTF-KSCpc-EUC-H, &apos;BM Dohyeon&apos;" font-size="36"><tspan x="0" y="0">70</tspan></text>
+      <text transform="translate(377.71 1169.84)" fill="#fff" font-family="BMDoHyeon-OTF-KSCpc-EUC-H, &apos;BM Dohyeon&apos;" font-size="36"><tspan x="0" y="0">70</tspan></text>
+    </g>
+    <g>
+      <line x1="438.29" y1="940" x2="641.71" y2="940" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="3"/>
+      <text transform="translate(653.6 949.84)" fill="#fff" font-family="BMDoHyeon-OTF-KSCpc-EUC-H, &apos;BM Dohyeon&apos;" font-size="36"><tspan x="0" y="0">80</tspan></text>
+      <text transform="translate(377.47 949.84)" fill="#fff" font-family="BMDoHyeon-OTF-KSCpc-EUC-H, &apos;BM Dohyeon&apos;" font-size="36"><tspan x="0" y="0">80</tspan></text>
+    </g>
+    <g>
+      <line x1="438.29" y1="720" x2="641.71" y2="720" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="3"/>
+      <text transform="translate(654.2 729.84)" fill="#fff" font-family="BMDoHyeon-OTF-KSCpc-EUC-H, &apos;BM Dohyeon&apos;" font-size="36"><tspan x="0" y="0">90</tspan></text>
+      <text transform="translate(378.07 729.84)" fill="#fff" font-family="BMDoHyeon-OTF-KSCpc-EUC-H, &apos;BM Dohyeon&apos;" font-size="36"><tspan x="0" y="0">90</tspan></text>
+    </g>
+    <g>
+      <line x1="438.29" y1="500" x2="641.71" y2="500" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="3"/>
+      <text transform="translate(653.6 509.84)" fill="#fff" font-family="BMDoHyeon-OTF-KSCpc-EUC-H, &apos;BM Dohyeon&apos;" font-size="36"><tspan x="0" y="0">80</tspan></text>
+      <text transform="translate(377.47 509.84)" fill="#fff" font-family="BMDoHyeon-OTF-KSCpc-EUC-H, &apos;BM Dohyeon&apos;" font-size="36"><tspan x="0" y="0">80</tspan></text>
+    </g>
+    <g>
+      <line x1="438.29" y1="280" x2="641.71" y2="280" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="3"/>
+      <text transform="translate(653.84 289.84)" fill="#fff" font-family="BMDoHyeon-OTF-KSCpc-EUC-H, &apos;BM Dohyeon&apos;" font-size="36"><tspan x="0" y="0">70</tspan></text>
+      <text transform="translate(377.71 289.84)" fill="#fff" font-family="BMDoHyeon-OTF-KSCpc-EUC-H, &apos;BM Dohyeon&apos;" font-size="36"><tspan x="0" y="0">70</tspan></text>
+    </g>
+    <g>
+      <line x1="478.75" y1="2150" x2="601.25" y2="2150" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="3"/>
+      <line x1="512" y1="2095" x2="568" y2="2095" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2"/>
+      <line x1="512" y1="2205" x2="568" y2="2205" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2"/>
+    </g>
+    <g>
+      <line x1="478.75" y1="1930" x2="601.25" y2="1930" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="3"/>
+      <line x1="512" y1="1875" x2="568" y2="1875" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2"/>
+      <line x1="512" y1="1985" x2="568" y2="1985" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2"/>
+    </g>
+    <g>
+      <line x1="478.75" y1="1710" x2="601.25" y2="1710" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="3"/>
+      <line x1="512" y1="1655" x2="568" y2="1655" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2"/>
+      <line x1="512" y1="1765" x2="568" y2="1765" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2"/>
+    </g>
+    <g>
+      <line x1="478.75" y1="1490" x2="601.25" y2="1490" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="3"/>
+      <line x1="512" y1="1435" x2="568" y2="1435" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2"/>
+      <line x1="512" y1="1545" x2="568" y2="1545" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2"/>
+    </g>
+    <g>
+      <line x1="478.75" y1="1270" x2="601.25" y2="1270" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="3"/>
+      <line x1="512" y1="1215" x2="568" y2="1215" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2"/>
+      <line x1="512" y1="1325" x2="568" y2="1325" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2"/>
+    </g>
+    <g>
+      <line x1="478.75" y1="1050" x2="601.25" y2="1050" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="3"/>
+      <line x1="512" y1="995" x2="568" y2="995" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2"/>
+      <line x1="512" y1="1105" x2="568" y2="1105" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2"/>
+    </g>
+    <g>
+      <line x1="478.75" y1="830" x2="601.25" y2="830" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="3"/>
+      <line x1="512" y1="775" x2="568" y2="775" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2"/>
+      <line x1="512" y1="885" x2="568" y2="885" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2"/>
+    </g>
+    <g>
+      <line x1="478.75" y1="610" x2="601.25" y2="610" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="3"/>
+      <line x1="512" y1="555" x2="568" y2="555" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2"/>
+      <line x1="512" y1="665" x2="568" y2="665" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2"/>
+    </g>
+    <g>
+      <line x1="478.75" y1="390" x2="601.25" y2="390" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="3"/>
+      <line x1="512" y1="335" x2="568" y2="335" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2"/>
+      <line x1="512" y1="445" x2="568" y2="445" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2"/>
+    </g>
+    <g>
+      <line x1="478.75" y1="170" x2="601.25" y2="170" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="3"/>
+      <line x1="512" y1="115" x2="568" y2="115" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2"/>
+      <line x1="512" y1="225" x2="568" y2="225" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2"/>
+    </g>
+    <g>
+      <line x1="438.29" y1="2920" x2="641.71" y2="2920" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="3"/>
+      <text transform="translate(658.07 2929.84)" fill="#fff" font-family="BMDoHyeon-OTF-KSCpc-EUC-H, &apos;BM Dohyeon&apos;" font-size="36"><tspan x="0" y="0">10</tspan></text>
+      <text transform="translate(381.94 2929.84)" fill="#fff" font-family="BMDoHyeon-OTF-KSCpc-EUC-H, &apos;BM Dohyeon&apos;" font-size="36"><tspan x="0" y="0">10</tspan></text>
+    </g>
+    <g>
+      <line x1="438.29" y1="3140" x2="641.71" y2="3140" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="3"/>
+      <text transform="translate(654.75 3149.84)" fill="#fff" font-family="BMDoHyeon-OTF-KSCpc-EUC-H, &apos;BM Dohyeon&apos;" font-size="36"><tspan x="0" y="0">20</tspan></text>
+      <text transform="translate(378.63 3149.84)" fill="#fff" font-family="BMDoHyeon-OTF-KSCpc-EUC-H, &apos;BM Dohyeon&apos;" font-size="36"><tspan x="0" y="0">20</tspan></text>
+    </g>
+    <g>
+      <line x1="478.75" y1="2810" x2="601.25" y2="2810" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="3"/>
+      <line x1="512" y1="2865" x2="568" y2="2865" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2"/>
+      <line x1="512" y1="2755" x2="568" y2="2755" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2"/>
+    </g>
+    <g>
+      <line x1="478.75" y1="3030" x2="601.25" y2="3030" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="3"/>
+      <line x1="512" y1="3085" x2="568" y2="3085" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2"/>
+      <line x1="512" y1="2975" x2="568" y2="2975" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2"/>
+    </g>
+    <g>
+      <line x1="438.29" y1="3360" x2="641.71" y2="3360" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="3"/>
+      <text transform="translate(654.38 3369.84)" fill="#fff" font-family="BMDoHyeon-OTF-KSCpc-EUC-H, &apos;BM Dohyeon&apos;" font-size="36"><tspan x="0" y="0">30</tspan></text>
+      <text transform="translate(378.25 3369.84)" fill="#fff" font-family="BMDoHyeon-OTF-KSCpc-EUC-H, &apos;BM Dohyeon&apos;" font-size="36"><tspan x="0" y="0">30</tspan></text>
+    </g>
+    <g>
+      <line x1="438.29" y1="3580" x2="641.71" y2="3580" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="3"/>
+      <text transform="translate(653.1 3589.84)" fill="#fff" font-family="BMDoHyeon-OTF-KSCpc-EUC-H, &apos;BM Dohyeon&apos;" font-size="36"><tspan x="0" y="0">40</tspan></text>
+      <text transform="translate(376.97 3589.84)" fill="#fff" font-family="BMDoHyeon-OTF-KSCpc-EUC-H, &apos;BM Dohyeon&apos;" font-size="36"><tspan x="0" y="0">40</tspan></text>
+    </g>
+    <g>
+      <line x1="438.29" y1="3800" x2="641.71" y2="3800" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="3"/>
+      <text transform="translate(653.87 3809.84)" fill="#fff" font-family="BMDoHyeon-OTF-KSCpc-EUC-H, &apos;BM Dohyeon&apos;" font-size="36"><tspan x="0" y="0">50</tspan></text>
+      <text transform="translate(377.75 3809.84)" fill="#fff" font-family="BMDoHyeon-OTF-KSCpc-EUC-H, &apos;BM Dohyeon&apos;" font-size="36"><tspan x="0" y="0">50</tspan></text>
+    </g>
+    <g>
+      <line x1="438.29" y1="4020" x2="641.71" y2="4020" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="3"/>
+      <text transform="translate(653.21 4029.84)" fill="#fff" font-family="BMDoHyeon-OTF-KSCpc-EUC-H, &apos;BM Dohyeon&apos;" font-size="36"><tspan x="0" y="0">60</tspan></text>
+      <text transform="translate(377.08 4029.84)" fill="#fff" font-family="BMDoHyeon-OTF-KSCpc-EUC-H, &apos;BM Dohyeon&apos;" font-size="36"><tspan x="0" y="0">60</tspan></text>
+    </g>
+    <g>
+      <line x1="438.29" y1="4240" x2="641.71" y2="4240" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="3"/>
+      <text transform="translate(653.84 4249.84)" fill="#fff" font-family="BMDoHyeon-OTF-KSCpc-EUC-H, &apos;BM Dohyeon&apos;" font-size="36"><tspan x="0" y="0">70</tspan></text>
+      <text transform="translate(377.71 4249.84)" fill="#fff" font-family="BMDoHyeon-OTF-KSCpc-EUC-H, &apos;BM Dohyeon&apos;" font-size="36"><tspan x="0" y="0">70</tspan></text>
+    </g>
+    <g>
+      <line x1="438.29" y1="4460" x2="641.71" y2="4460" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="3"/>
+      <text transform="translate(653.6 4469.84)" fill="#fff" font-family="BMDoHyeon-OTF-KSCpc-EUC-H, &apos;BM Dohyeon&apos;" font-size="36"><tspan x="0" y="0">80</tspan></text>
+      <text transform="translate(377.47 4469.84)" fill="#fff" font-family="BMDoHyeon-OTF-KSCpc-EUC-H, &apos;BM Dohyeon&apos;" font-size="36"><tspan x="0" y="0">80</tspan></text>
+    </g>
+    <g>
+      <line x1="438.29" y1="4680" x2="641.71" y2="4680" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="3"/>
+      <text transform="translate(654.2 4689.84)" fill="#fff" font-family="BMDoHyeon-OTF-KSCpc-EUC-H, &apos;BM Dohyeon&apos;" font-size="36"><tspan x="0" y="0">90</tspan></text>
+      <text transform="translate(378.07 4689.84)" fill="#fff" font-family="BMDoHyeon-OTF-KSCpc-EUC-H, &apos;BM Dohyeon&apos;" font-size="36"><tspan x="0" y="0">90</tspan></text>
+    </g>
+    <g>
+      <line x1="438.29" y1="4900" x2="641.71" y2="4900" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="3"/>
+      <text transform="translate(653.6 4909.84)" fill="#fff" font-family="BMDoHyeon-OTF-KSCpc-EUC-H, &apos;BM Dohyeon&apos;" font-size="36"><tspan x="0" y="0">80</tspan></text>
+      <text transform="translate(377.47 4909.84)" fill="#fff" font-family="BMDoHyeon-OTF-KSCpc-EUC-H, &apos;BM Dohyeon&apos;" font-size="36"><tspan x="0" y="0">80</tspan></text>
+    </g>
+    <g>
+      <line x1="438.29" y1="5120" x2="641.71" y2="5120" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="3"/>
+      <text transform="translate(653.84 5129.84)" fill="#fff" font-family="BMDoHyeon-OTF-KSCpc-EUC-H, &apos;BM Dohyeon&apos;" font-size="36"><tspan x="0" y="0">70</tspan></text>
+      <text transform="translate(377.71 5129.84)" fill="#fff" font-family="BMDoHyeon-OTF-KSCpc-EUC-H, &apos;BM Dohyeon&apos;" font-size="36"><tspan x="0" y="0">70</tspan></text>
+    </g>
+    <g>
+      <line x1="478.75" y1="3250" x2="601.25" y2="3250" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="3"/>
+      <line x1="512" y1="3305" x2="568" y2="3305" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2"/>
+      <line x1="512" y1="3195" x2="568" y2="3195" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2"/>
+    </g>
+    <g>
+      <line x1="478.75" y1="3470" x2="601.25" y2="3470" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="3"/>
+      <line x1="512" y1="3525" x2="568" y2="3525" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2"/>
+      <line x1="512" y1="3415" x2="568" y2="3415" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2"/>
+    </g>
+    <g>
+      <line x1="478.75" y1="3690" x2="601.25" y2="3690" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="3"/>
+      <line x1="512" y1="3745" x2="568" y2="3745" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2"/>
+      <line x1="512" y1="3635" x2="568" y2="3635" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2"/>
+    </g>
+    <g>
+      <line x1="478.75" y1="3910" x2="601.25" y2="3910" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="3"/>
+      <line x1="512" y1="3965" x2="568" y2="3965" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2"/>
+      <line x1="512" y1="3855" x2="568" y2="3855" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2"/>
+    </g>
+    <g>
+      <line x1="478.75" y1="4130" x2="601.25" y2="4130" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="3"/>
+      <line x1="512" y1="4185" x2="568" y2="4185" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2"/>
+      <line x1="512" y1="4075" x2="568" y2="4075" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2"/>
+    </g>
+    <g>
+      <line x1="478.75" y1="4350" x2="601.25" y2="4350" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="3"/>
+      <line x1="512" y1="4405" x2="568" y2="4405" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2"/>
+      <line x1="512" y1="4295" x2="568" y2="4295" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2"/>
+    </g>
+    <g>
+      <line x1="478.75" y1="4570" x2="601.25" y2="4570" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="3"/>
+      <line x1="512" y1="4625" x2="568" y2="4625" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2"/>
+      <line x1="512" y1="4515" x2="568" y2="4515" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2"/>
+    </g>
+    <g>
+      <line x1="478.75" y1="4790" x2="601.25" y2="4790" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="3"/>
+      <line x1="512" y1="4845" x2="568" y2="4845" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2"/>
+      <line x1="512" y1="4735" x2="568" y2="4735" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2"/>
+    </g>
+    <g>
+      <line x1="478.75" y1="5010" x2="601.25" y2="5010" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="3"/>
+      <line x1="512" y1="5065" x2="568" y2="5065" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2"/>
+      <line x1="512" y1="4955" x2="568" y2="4955" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2"/>
+    </g>
+    <g>
+      <line x1="478.75" y1="5230" x2="601.25" y2="5230" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="3"/>
+      <line x1="512" y1="5285" x2="568" y2="5285" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2"/>
+      <line x1="512" y1="5175" x2="568" y2="5175" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2"/>
+    </g>
+  </g>
+</svg>

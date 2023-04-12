@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1081 1081">
+  <g id="_레이어_2" data-name="레이어 2">
+    <line x1=".5" y1="540.5" x2="84.92" y2="540.5" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="5"/>
+    <line x1="996.08" y1="540.5" x2="1080.5" y2="540.5" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="5"/>
+    <line x1="540.5" y1="1080.5" x2="540.5" y2="996.08" fill="none" stroke="#fd0407" stroke-miterlimit="10" stroke-width="5"/>
+    <line x1="158.66" y1="158.66" x2="218.35" y2="218.35" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="5"/>
+    <line x1="862.65" y1="862.65" x2="922.34" y2="922.34" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="5"/>
+    <line x1="158.66" y1="922.34" x2="218.35" y2="862.65" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="5"/>
+    <line x1="862.65" y1="218.35" x2="922.34" y2="158.66" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="5"/>
+    <rect x="516.29" y="33.08" width="17.96" height="962.07" transform="translate(-186.69 331.51) rotate(-30)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="3"/>
+    <rect x="524.73" y="47.74" width="17.96" height="948.25" transform="translate(-146.3 214.01) rotate(-20)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="3"/>
+    <rect x="538.87" y="47.84" width="17.96" height="944.92" transform="translate(210.99 -156) rotate(20)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="3"/>
+    <rect x="535.25" y="46.87" width="17.96" height="944.92" transform="translate(98.45 -86.62) rotate(10)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="3"/>
+    <rect x="528.8" y="46.78" width="17.96" height="956.58" transform="translate(-83.01 101.36) rotate(-10)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="3"/>
+    <rect x="546.18" y="32.93" width="17.96" height="964.35" transform="translate(331.93 -208.57) rotate(30)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="3"/>
+    <path d="m295.49,131.85s227.87-152.7,490.02,0" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="5"/>
+    <polygon points="540.5 56.55 560.56 21.81 520.44 21.81 540.5 56.55" fill="none" stroke="#fffe03" stroke-miterlimit="10" stroke-width="5"/>
+    <path d="m785.51,951.98s-227.87,152.7-490.02,0" fill="none" stroke="#fd0407" stroke-miterlimit="10" stroke-width="10"/>
+  </g>
+  <g id="_레이어_3" data-name="레이어 3">
+    <g>
+      <circle cx="540.5" cy="540.5" r="474.48" fill="#18aaff"/>
+      <path d="m1014.98,540.5c0,262.05-212.43,474.48-474.48,474.48S66.02,802.55,66.02,540.5" fill="#ae5b24"/>
+    </g>
+  </g>
+</svg>

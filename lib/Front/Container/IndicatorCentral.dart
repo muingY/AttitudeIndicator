@@ -1,4 +1,5 @@
 // ignore_for_file: file_names
+import 'package:attitude_indicator/Front/Component/AttitudeGuidance/AttitudeGuidance.dart';
 import 'package:flutter/material.dart';
 
 class IndicatorCentral extends StatelessWidget {
@@ -12,9 +13,9 @@ class IndicatorCentral extends StatelessWidget {
           flex: 2,
           child: Container(), // Speed indicator
         ),
-        Expanded(
+        const Expanded(
           flex: 6,
-          child: Container(), // Attitude guidance
+          child: AttitudeGuidance(),
         ),
         Expanded(
           flex: 2,

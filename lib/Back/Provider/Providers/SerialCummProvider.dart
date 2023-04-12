@@ -1,6 +1,7 @@
 // ignore_for_file: file_names
 import 'dart:typed_data';
 
+import 'package:attitude_indicator/Back/Provider/Providers/AttitudeDataProvider.dart';
 import 'package:attitude_indicator/Back/Utils/Uint8ListUtil.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_libserialport/flutter_libserialport.dart';
@@ -9,6 +10,8 @@ enum CommState { normal, disconnected }
 
 class SerialCummProvider with ChangeNotifier {
   /* States */
+  AttitudeDataProvider? _attitudeData;
+
   CommState commState = CommState.disconnected;
 
   SerialPort? serialPort;
@@ -19,7 +22,7 @@ class SerialCummProvider with ChangeNotifier {
   String recvData = "";
   Uint8List _recvRawData = Uint8List(0);
 
-  Duration deltaTime = Duration();
+  Duration deltaTime = const Duration();
   DateTime _lastTime = DateTime(0);
 
   /* Actions */
@@ -28,11 +31,15 @@ class SerialCummProvider with ChangeNotifier {
     notifyListeners();
   }
 
+  void setAttitudeDataProvider(AttitudeDataProvider attitudeData) {
+    _attitudeData = attitudeData;
+  }
+
   void setConnection(String port) {
     if (port == 'none') {
       if (serialPort != null && serialPort!.isOpen) {
         reader?.close();
-        serialPort?.close();
+        serialPort!.close();
         commState = CommState.disconnected;
       }
       return;
@@ -49,7 +56,6 @@ class SerialCummProvider with ChangeNotifier {
       config.baudRate = 115200;
       serialPort!.config = config;
       if (serialPort!.isOpen) {
-        debugPrint('Serial port open!');
         commState = CommState.normal;
       }
       reader = SerialPortReader(serialPort!);
@@ -61,8 +67,10 @@ class SerialCummProvider with ChangeNotifier {
               _recvRawData.sublist(0, _recvRawData.length - 1));
           _recvRawData = Uint8List(0);
           // debugPrint('received: $recvData');
+          _attitudeData?.updatePitchRollYaw(recvData);
           deltaTime = DateTime.now().difference(_lastTime);
           _lastTime = DateTime.now();
+          notifyListeners();
         }
       }, onError: (error) {
         if (error is SerialPortError) {
