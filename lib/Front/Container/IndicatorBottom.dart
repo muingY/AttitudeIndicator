@@ -1,4 +1,5 @@
 // ignore_for_file: file_names
+import 'package:attitude_indicator/Front/Component/HeadingReference/HeadingReference.dart';
 import 'package:flutter/material.dart';
 
 class IndicatorBottom extends StatelessWidget {
@@ -12,9 +13,9 @@ class IndicatorBottom extends StatelessWidget {
           flex: 2,
           child: Container(),
         ),
-        Expanded(
+        const Expanded(
           flex: 6,
-          child: Container(), // Heading reference
+          child: HeadingReference(),
         ),
         Expanded(
           flex: 2,

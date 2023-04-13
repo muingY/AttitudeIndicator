@@ -23,11 +23,11 @@ class RootFrame extends StatelessWidget {
                   child: ModeAnnunciator(),
                 ),
                 Expanded(
-                  flex: 75,
+                  flex: 70,
                   child: IndicatorCentral(),
                 ),
                 Expanded(
-                  flex: 10,
+                  flex: 15,
                   child: IndicatorBottom(),
                 ),
               ]),
