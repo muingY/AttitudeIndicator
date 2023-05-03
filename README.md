@@ -10,5 +10,5 @@
 시연 영상: https://youtu.be/j-V_8WmK6q4
 
 ## Reference
->[ IMU (MPU9250) ]  
+>**[ IMU (MPU9250) ]**  
 >: https://github.com/0x42-Embedded-Robotics-club/IMU-Study
