@@ -1,16 +1,14 @@
-# attitude_indicator
+# Attitude Indicator
 
-A new Flutter project.
+## Introduction
 
-## Getting Started
+[![Video](http://img.youtube.com/vi/j-V_8WmK6q4/0.jpg)](https://youtu.be/j-V_8WmK6q4)
 
-This project is a starting point for a Flutter application.
+![스크린샷 2023-04-13 오후 9 48 22](https://user-images.githubusercontent.com/26504096/235819169-50e69ce1-a991-47df-945a-dd7d6bf24fa4.png)
 
-A few resources to get you started if this is your first Flutter project:
+씨리얼 통신을 통해 외부 디바이스에서 센서 값을 받아와 항공기 계기와 같이 표시해주는 Flutter 앱입니다.<br/>
+지금은 자세계만 구현이 되어있지만 고도, 에어스피드, 방향지시 등과 같이 기능을 점차 늘려나갈 계획이에요.<br/>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Reference
+>- IMU (MPU9250)
+>: https://github.com/0x42-Embedded-Robotics-club/IMU-Study
